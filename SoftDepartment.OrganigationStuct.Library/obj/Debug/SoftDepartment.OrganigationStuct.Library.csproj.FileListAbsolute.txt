@@ -1,0 +1,12 @@
+H:\Kurs_senticode\SoftDepartment.OrganigationStuct.General\SoftDepartment.OrganigationStuct.Library\obj\Debug\SoftDepartment.OrganigationStuct.Library.csprojAssemblyReference.cache
+H:\Kurs_senticode\SoftDepartment.OrganigationStuct.General\SoftDepartment.OrganigationStuct.Library\obj\Debug\SoftDepartment.OrganigationStuct.Library.csproj.CoreCompileInputs.cache
+H:\Kurs_senticode\SoftDepartment.OrganigationStuct.General\SoftDepartment.OrganigationStuct.Library\bin\Debug\SoftDepartment.OrganigationStuct.Library.dll
+H:\Kurs_senticode\SoftDepartment.OrganigationStuct.General\SoftDepartment.OrganigationStuct.Library\bin\Debug\SoftDepartment.OrganigationStuct.Library.pdb
+H:\Kurs_senticode\SoftDepartment.OrganigationStuct.General\SoftDepartment.OrganigationStuct.Library\obj\Debug\SoftDepartment.OrganigationStuct.Library.dll
+H:\Kurs_senticode\SoftDepartment.OrganigationStuct.General\SoftDepartment.OrganigationStuct.Library\obj\Debug\SoftDepartment.OrganigationStuct.Library.pdb
+G:\Kurs_senticode\SoftDepartment.OrganigationStuct.General\SoftDepartment.OrganigationStuct.Library\bin\Debug\SoftDepartment.OrganigationStuct.Library.dll
+G:\Kurs_senticode\SoftDepartment.OrganigationStuct.General\SoftDepartment.OrganigationStuct.Library\bin\Debug\SoftDepartment.OrganigationStuct.Library.pdb
+G:\Kurs_senticode\SoftDepartment.OrganigationStuct.General\SoftDepartment.OrganigationStuct.Library\obj\Debug\SoftDepartment.OrganigationStuct.Library.csprojAssemblyReference.cache
+G:\Kurs_senticode\SoftDepartment.OrganigationStuct.General\SoftDepartment.OrganigationStuct.Library\obj\Debug\SoftDepartment.OrganigationStuct.Library.csproj.CoreCompileInputs.cache
+G:\Kurs_senticode\SoftDepartment.OrganigationStuct.General\SoftDepartment.OrganigationStuct.Library\obj\Debug\SoftDepartment.OrganigationStuct.Library.dll
+G:\Kurs_senticode\SoftDepartment.OrganigationStuct.General\SoftDepartment.OrganigationStuct.Library\obj\Debug\SoftDepartment.OrganigationStuct.Library.pdb
