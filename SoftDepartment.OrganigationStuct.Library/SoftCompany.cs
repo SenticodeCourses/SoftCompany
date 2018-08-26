@@ -33,9 +33,9 @@ namespace SoftDepartment.OrganigationStuct.Library
                     {Speciality.Test, _rnd.Next(4)}
                 };
 
-                foreach (var tT in _taskTeam.Values)
+                foreach (var tt in _taskTeam.Values)
                 {
-                    _countEmpl += tT;
+                    _countEmpl += tt;
                 }
 
                 int count = 0;
