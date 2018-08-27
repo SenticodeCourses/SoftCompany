@@ -11,6 +11,6 @@ namespace SoftDepartment.OrganigationStuct.Library
     public class Task
     {
         public string Name { get; set; }
-        public List<Employee> employees { get; set; } = new List<Employee>();
+        public List<Employee> Employees { get; set; } = new List<Employee>();
     }
 }

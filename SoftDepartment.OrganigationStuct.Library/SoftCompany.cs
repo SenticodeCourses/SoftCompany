@@ -42,11 +42,11 @@ namespace SoftDepartment.OrganigationStuct.Library
                 var _selectedEmployee = Staff.Where(e => e.isBusy == false);
                 foreach (var se in _selectedEmployee)
                 {
-                    if (_taskTeam.TryGetValue(se.Speciality, out var value))
+                    if (_taskTeam.TryGetValue(se.Speciality, out var _speciallist))
                     {
-                        if (value > 0)
+                        if (_speciallist > 0)
                         {
-                            pt.employees.Add(se);
+                            pt.Employees.Add(se);
                             se.isBusy = true;
                             _taskTeam[se.Speciality] -= 1;
                             count += 1;
